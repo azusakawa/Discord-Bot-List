@@ -102,7 +102,7 @@
 * start ttrs
 * start urus
 * start v60
-* start vm* stance
+* start vmstance
 * start wraith
 * start x6m
 * start ym1
